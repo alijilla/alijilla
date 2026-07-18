@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alyssa Jade P. Merjilla!
 
-🎓 3rd Year BS Computer Engineering Student  
+🎓 BS Computer Engineering Fresh Graduate 
 📍 Southern Luzon State University  
 📧 Email: merjillajadealyssa@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/alyssa-jade-merjilla/) | [Coursera Profile](https://www.coursera.org/learner/alyssa-jade-p-merjilla)
