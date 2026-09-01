@@ -1,71 +1,200 @@
 # 👋 Hi, I'm Alyssa Jade P. Merjilla!
 
-🎓 BS Computer Engineering Fresh Graduate 
-📍 Southern Luzon State University  
-📧 Email: merjillajadealyssa@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/alyssa-jade-merjilla/) | [Coursera Profile](https://www.coursera.org/learner/alyssa-jade-p-merjilla)
+### Junior Full-Stack Developer | AI Integration
+
+🎓 **BS Computer Engineering Graduate**  
+📍 Philippines  
+📧 **merjillajade@gmail.com**
+
+[LinkedIn](https://www.linkedin.com/in/alyssa-jade-merjilla/) · [Portfolio](https://ajpm-portfolio.vercel.app/) · [GitHub](https://github.com/alijilla)
 
 ---
 
-## 💡 About Me
-I'm an enthusiastic and highly motivated student with a passion for learning, building, and contributing to real-world engineering solutions. I'm currently seeking on-the-job training opportunities to apply my technical knowledge and grow further in the field of Computer Engineering.
+## 👩‍💻 About Me
+
+I'm a **Computer Engineering graduate focused on full-stack web development and AI integration**.
+
+After graduation, I began strengthening my development skills through hands-on projects, with a particular focus on **React, Next.js, TypeScript, Supabase/PostgreSQL, and AI-powered applications**.
+
+I'm currently completing **Flyrank AI's remote, self-paced Frontend AI Engineer program**, where I'm building my capstone project, **ALYMERA** — an AI-powered workspace that combines project management and career management.
+
+I learn by building, reading documentation, experimenting with new technologies, and using AI as a development and learning partner.
+
+**My goal is to turn what I learn into production-ready applications and grow into a professional software/AI engineering role.**
 
 ---
 
-## 🛠️ Skills
+## 🚀 Current Capstone
 
-**Programming & Web Development:**  
-`Python` | `Java` | `C++` | `HTML` | `CSS` | `JavaScript`
+### 🧠 ALYMERA — Build. Apply. Become.
 
-**Tools & Technologies:**  
-`MS Office (Word, Excel)` | `PCB Design (EDA Tools)` | `Soldering` | `Hardware Prototyping`
+**Flyrank AI Frontend AI Engineer Capstone · 🚧 In Development**
 
-**Soft Skills:**  
-Time Management | Communication | Leadership | Team Collaboration
+ALYMERA is an AI-powered workspace designed for developers and graduating students who manage both **software projects and job applications**.
 
----
+Instead of using separate tools for managing coding projects and tracking a job search, ALYMERA brings both workflows together.
 
-## 💼 Leadership & Memberships
+### 💻 Build Mode
 
-- 📌 **Executive Secretary**, Society of Computer Engineering Students (2024–Present)  
-- 📌 **Assistant Secretary**, College of Engineering Student Council (2023–2024)  
-- 👥 Member, Institute of Computer Engineers of the Philippines Region 4A (2022–2024)
+AI-assisted project management:
 
----
+- Turn an application idea into development tasks
+- Manage tasks through a Kanban board
+- Drag and drop tasks
+- Estimate development work
+- Get AI coding/project assistance
+- Interact with a streaming AI assistant
 
-## 📂 Projects
+### 🎯 Career Mode
 
-### 🔧 Software Projects
-- 🗺️ **MIMAROPA_MAP** *(Python)* – Regional mapping tool  
-- 🏠 **Patibayan ng Bahay** *(Java)* – 2D turn-based house battle game  
-- 📊 **4Ps Calculator** *(Java)* – Eligibility checker for 4Ps program  
-- 💰 **Financial Companion** *(HTML/CSS/JS)* – Personal budgeting tool  
-- 👕 **CEN Merch Store** *(HTML/CSS/JS)* – Online merch shop (Team of 3)
+AI-assisted job hunting:
 
-### 🔌 Hardware Projects
-- 👥 **Passenger Counter Sensor** – IR-based counting system (Team of 4)  
-- ⚡ **Regulated Power Supply** – Adjustable voltage device (Team of 3)  
-- 💧 **Water Level Indicator** – Tank level monitor (Team of 3)  
-- 💡 **Light Detect** – Auto light sensor (Team of 3)  
-- 🎲 **Random Dice Circuit** (Team of 3)  
-- 🌟 **Christmas Decor Lighting** – Soldered circuit  
-- 🖨️ **PCB Design** – Custom EDA circuit layout
+- Track job applications
+- Organize applications with a Kanban workflow
+- Compare jobs against a resume
+- Generate resume–job alignment scores
+- Identify missing or relevant skills
+- Tailor resume content
+- Generate customized cover letters
 
----
+### 🛠️ Technologies
 
-## 📜 Certifications
+`Next.js` `React` `TypeScript` `Tailwind CSS` `shadcn/ui`
 
-- ✅ Google AI Essentials *(Nov 2024)*  
-- ✅ Foundations of Cybersecurity *(Nov 2024)*  
-- ✅ Data, Data, Everywhere *(Nov 2024)*  
-- ✅ UX Design & Project Management *(Feb 2025)*  
-- ✅ Ask Questions to Make Data-Driven Decisions *(Feb 2025)*  
-- ✅ Basic Occupational Safety & Health – Safety Officer 2 *(2024)*  
-- ✅ START UP 2024 – Leadership Training Program *(2024)*
+`Supabase` `PostgreSQL` `Vercel AI SDK` `Groq`
+
+`dnd-kit` `Git` `GitHub` `Vercel`
+
+**Status:** 🚧 Actively building
 
 ---
 
-## 📌 Let's Connect!
+## 🌐 Portfolio
 
-I'm open to collaborations, internships, and tech conversations! Feel free to reach out via email or LinkedIn.
+### Full-Stack AI Portfolio
 
+My personal developer portfolio built to demonstrate my transition into modern full-stack and AI application development.
+
+**Built with:**
+
+`Next.js` · `TypeScript` · `Supabase` · `PostgreSQL` · `Gemini` · `Resend` · `Tailwind CSS` · `shadcn/ui` · `Framer Motion`
+
+🔗 **[Live Portfolio](https://ajpm-portfolio.vercel.app/)**
+
+---
+
+## 🧠 What I'm Currently Learning
+
+### AI Engineering
+
+- AI SDKs
+- Streaming AI interfaces
+- Structured AI output
+- Tool/function calling
+- AI application architecture
+- Error handling for AI systems
+
+### Full-Stack Development
+
+- Next.js App Router
+- React
+- TypeScript
+- Supabase
+- PostgreSQL
+- Authentication
+- Row Level Security
+- CRUD architecture
+
+### Production Development
+
+- Git & GitHub
+- Vercel deployment
+- Testing
+- Accessibility
+- Responsive UI
+- Performance optimization
+
+---
+
+## 💼 Experience & Development Journey
+
+### Flyrank AI — Frontend AI Engineer Program
+**Remote · Self-Paced**
+
+Currently completing a hands-on AI engineering program focused on building modern frontend applications with AI.
+
+**Capstone:** ALYMERA
+
+The program is helping me develop practical experience with:
+
+`React` · `Next.js` · `TypeScript` · `AI SDKs` · `Streaming AI` · `Structured Output` · `Tool Calling` · `Accessibility` · `Production Deployment`
+
+### Department of Information and Communications Technology (DICT)
+**On-the-Job Trainee**
+
+Contributed to a web-based intern time-in/time-out and visitor log application while collaborating with team members to troubleshoot and improve the system.
+
+---
+
+## 📂 Other Projects
+
+### 🧺 Smart Laundry Kiosk
+**Computer Engineering Thesis**
+
+An automated laundry drop-off and payment system combining hardware, transaction processing, and electronic locker access.
+
+### 🗺️ MIMAROPA_MAP
+Regional mapping project built with Python.
+
+### 🏠 Patibayan ng Bahay
+2D turn-based house battle game built with Java Swing.
+
+### 💰 Financial Companion
+Personal budgeting web application built with HTML, CSS, and JavaScript.
+
+---
+
+## 🛠️ Technologies
+
+**Languages**
+
+`TypeScript` `JavaScript` `Python` `Java` `C++` `SQL`
+
+**Frontend**
+
+`React` `Next.js` `HTML` `CSS` `Tailwind CSS`
+
+**Backend / Database**
+
+`Supabase` `PostgreSQL`
+
+**AI**
+
+`Vercel AI SDK` `Groq` `Gemini`
+
+**Tools**
+
+`Git` `GitHub` `Vercel` `Firebase`
+
+---
+
+## 🎯 Looking For
+
+I'm currently looking for opportunities as a:
+
+**Junior Full-Stack Developer · Frontend Developer · AI Developer**
+
+I'm particularly interested in teams where I can contribute to **real-world products, modern web applications, and AI-powered features** while continuing to grow as an engineer.
+
+---
+
+## 📫 Let's Connect
+
+📧 **Email:** merjillajade@gmail.com  
+💼 **LinkedIn:** [alyssa-jade-merjilla](https://www.linkedin.com/in/alyssa-jade-merjilla/)  
+🌐 **Portfolio:** [ajpm-portfolio.vercel.app](https://ajpm-portfolio.vercel.app/)  
+💻 **GitHub:** [@alijilla](https://github.com/alijilla)
+
+---
+
+### ✨ Build. Learn. Improve. Repeat.
