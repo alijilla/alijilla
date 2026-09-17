@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Alyssa Jade P. Merjilla!
 
-### Junior Full-Stack Developer | AI Integration
+### Junior Full-Stack Developer | React, Next.js & AI Integration
 
-🎓 **BS Computer Engineering Graduate**  
-📍 Philippines  
-📧 **merjillajade@gmail.com**
+🎓 **BS Computer Engineering Graduate**
+📍 Philippines
+📧 **[merjillajade@gmail.com](mailto:merjillajade@gmail.com)**
 
 [LinkedIn](https://www.linkedin.com/in/alyssa-jade-merjilla/) · [Portfolio](https://ajpm-portfolio.vercel.app/) · [GitHub](https://github.com/alijilla)
 
@@ -14,48 +14,48 @@
 
 I'm a **Computer Engineering graduate focused on full-stack web development and AI integration**.
 
-After graduation, I began strengthening my development skills through hands-on projects, with a particular focus on **React, Next.js, TypeScript, Supabase/PostgreSQL, and AI-powered applications**.
+I build modern web applications using **React, Next.js, TypeScript, Supabase/PostgreSQL, and AI technologies**, with a focus on creating practical and user-friendly products.
 
-I'm currently completing **Flyrank AI's remote, self-paced Frontend AI Engineer program**, where I'm building my capstone project, **ALYMERA** — an AI-powered workspace that combines project management and career management.
+I recently completed **FlyRank AI's remote, self-paced Frontend AI Engineer program**, where I built **ALYMERA**, an AI-powered workspace that combines project management and career management for developers and job seekers.
 
-I learn by building, reading documentation, experimenting with new technologies, and using AI as a development and learning partner.
+I learn by building, reading documentation, experimenting with new technologies, and using AI-assisted development tools as a learning and development partner.
 
-**My goal is to turn what I learn into production-ready applications and grow into a professional software/AI engineering role.**
+**My goal is to build production-ready applications while continuing to grow as a full-stack and AI-focused software engineer.**
 
 ---
 
-## 🚀 Current Capstone
+## 🚀 Featured Project
 
 ### 🧠 ALYMERA — Build. Apply. Become.
 
-**Flyrank AI Frontend AI Engineer Capstone · 🚧 In Development**
+**FlyRank AI Frontend AI Engineer Capstone**
 
-ALYMERA is an AI-powered workspace designed for developers and graduating students who manage both **software projects and job applications**.
+ALYMERA is an **AI-powered career and project management platform** designed for developers and job seekers.
 
-Instead of using separate tools for managing coding projects and tracking a job search, ALYMERA brings both workflows together.
+It combines project planning, task management, career tracking, resume and job-description analysis, and AI-powered career assistance in one application.
 
 ### 💻 Build Mode
 
-AI-assisted project management:
+A workspace for managing software projects and development tasks:
 
-- Turn an application idea into development tasks
-- Manage tasks through a Kanban board
-- Drag and drop tasks
-- Estimate development work
-- Get AI coding/project assistance
-- Interact with a streaming AI assistant
+* Create and manage projects
+* Organize development tasks
+* Manage tasks through a Kanban workflow
+* Drag and drop tasks
+* Track milestones and development progress
+* Get AI-assisted project and development support
+* Interact with a streaming AI assistant
 
 ### 🎯 Career Mode
 
-AI-assisted job hunting:
+A career management workspace for job seekers:
 
-- Track job applications
-- Organize applications with a Kanban workflow
-- Compare jobs against a resume
-- Generate resume–job alignment scores
-- Identify missing or relevant skills
-- Tailor resume content
-- Generate customized cover letters
+* Track job applications
+* Organize applications by status
+* Compare a resume against a target job description
+* Identify matched and missing skills
+* Generate resume improvement suggestions
+* Prepare for interviews based on a target job description
 
 ### 🛠️ Technologies
 
@@ -65,7 +65,7 @@ AI-assisted job hunting:
 
 `dnd-kit` `Git` `GitHub` `Vercel`
 
-**Status:** 🚧 Actively building
+**Status:** ✅ Completed & Deployed
 
 ---
 
@@ -73,7 +73,9 @@ AI-assisted job hunting:
 
 ### Full-Stack AI Portfolio
 
-My personal developer portfolio built to demonstrate my transition into modern full-stack and AI application development.
+My personal developer portfolio built to showcase my full-stack web development projects and AI application work.
+
+The portfolio includes an interactive **AI assistant** that allows visitors to ask questions about my projects and experience.
 
 **Built with:**
 
@@ -83,74 +85,88 @@ My personal developer portfolio built to demonstrate my transition into modern f
 
 ---
 
-## 🧠 What I'm Currently Learning
+## 🧠 Technical Focus
 
 ### AI Engineering
 
-- AI SDKs
-- Streaming AI interfaces
-- Structured AI output
-- Tool/function calling
-- AI application architecture
-- Error handling for AI systems
+* AI SDKs and API integration
+* Streaming AI interfaces
+* Structured AI output
+* Tool and function calling
+* AI-assisted application architecture
+* Error handling for AI systems
 
 ### Full-Stack Development
 
-- Next.js App Router
-- React
-- TypeScript
-- Supabase
-- PostgreSQL
-- Authentication
-- Row Level Security
-- CRUD architecture
+* Next.js App Router
+* React
+* TypeScript
+* Supabase
+* PostgreSQL
+* Authentication
+* Row Level Security
+* CRUD architecture
+* REST API integration
 
 ### Production Development
 
-- Git & GitHub
-- Vercel deployment
-- Testing
-- Accessibility
-- Responsive UI
-- Performance optimization
+* Git & GitHub
+* Vercel deployment
+* Responsive UI
+* Accessibility
+* Testing
+* Performance optimization
 
 ---
 
-## 💼 Experience & Development Journey
+## 💼 Experience
 
-### Flyrank AI — Frontend AI Engineer Program
-**Remote · Self-Paced**
+### FlyRank AI — Frontend AI Engineer Intern
 
-Currently completing a hands-on AI engineering program focused on building modern frontend applications with AI.
+**Remote · Self-Paced · July 2026 – September 2026**
 
-**Capstone:** ALYMERA
+Completed a hands-on Frontend AI Engineer internship focused on building modern web applications with AI functionality.
 
-The program is helping me develop practical experience with:
+For my capstone project, I designed and developed **ALYMERA**, an AI-powered career and project management platform.
 
-`React` · `Next.js` · `TypeScript` · `AI SDKs` · `Streaming AI` · `Structured Output` · `Tool Calling` · `Accessibility` · `Production Deployment`
+Through the internship, I gained practical experience working with:
+
+`React` · `Next.js` · `TypeScript` · `Supabase` · `PostgreSQL` · `Vercel AI SDK` · `Groq` · `Tailwind CSS` · `shadcn/ui`
+
+I also worked with AI-assisted development workflows, Git/GitHub, responsive UI development, accessibility, testing, and production deployment.
 
 ### Department of Information and Communications Technology (DICT)
-**On-the-Job Trainee**
 
-Contributed to a web-based intern time-in/time-out and visitor log application while collaborating with team members to troubleshoot and improve the system.
+**Web Developer Intern / On-the-Job Trainee**
+
+Contributed to a web-based visitor and intern time-in/time-out system.
+
+* Developed and refined frontend interfaces using HTML, CSS, and JavaScript
+* Implemented UI improvements based on requirements and user feedback
+* Improved readability and accessibility of interface elements
+* Assisted with testing, debugging, and troubleshooting
 
 ---
 
 ## 📂 Other Projects
 
 ### 🧺 Smart Laundry Kiosk
+
 **Computer Engineering Thesis**
 
-An automated laundry drop-off and payment system combining hardware, transaction processing, and electronic locker access.
+An automated self-service laundry system combining weighing, payment processing, transaction management, and electronic locker access.
 
 ### 🗺️ MIMAROPA_MAP
-Regional mapping project built with Python.
+
+A regional mapping project built with Python.
 
 ### 🏠 Patibayan ng Bahay
-2D turn-based house battle game built with Java Swing.
+
+A 2D turn-based house battle game built with Java Swing.
 
 ### 💰 Financial Companion
-Personal budgeting web application built with HTML, CSS, and JavaScript.
+
+A personal budgeting web application built with HTML, CSS, and JavaScript.
 
 ---
 
@@ -162,17 +178,17 @@ Personal budgeting web application built with HTML, CSS, and JavaScript.
 
 **Frontend**
 
-`React` `Next.js` `HTML` `CSS` `Tailwind CSS`
+`React` `Next.js` `HTML` `CSS` `Tailwind CSS` `shadcn/ui`
 
 **Backend / Database**
 
-`Supabase` `PostgreSQL`
+`Supabase` `PostgreSQL` `REST APIs`
 
 **AI**
 
 `Vercel AI SDK` `Groq` `Gemini`
 
-**Tools**
+**Tools & Deployment**
 
 `Git` `GitHub` `Vercel` `Firebase`
 
@@ -182,17 +198,17 @@ Personal budgeting web application built with HTML, CSS, and JavaScript.
 
 I'm currently looking for opportunities as a:
 
-**Junior Full-Stack Developer · Frontend Developer · AI Developer**
+**Junior Full-Stack Developer · Frontend Developer · AI Integration Developer**
 
-I'm particularly interested in teams where I can contribute to **real-world products, modern web applications, and AI-powered features** while continuing to grow as an engineer.
+I'm interested in working on **real-world products, modern web applications, and AI-powered features** while continuing to grow as a software engineer.
 
 ---
 
 ## 📫 Let's Connect
 
-📧 **Email:** merjillajade@gmail.com  
-💼 **LinkedIn:** [alyssa-jade-merjilla](https://www.linkedin.com/in/alyssa-jade-merjilla/)  
-🌐 **Portfolio:** [ajpm-portfolio.vercel.app](https://ajpm-portfolio.vercel.app/)  
+📧 **Email:** [merjillajade@gmail.com](mailto:merjillajade@gmail.com)
+💼 **LinkedIn:** [alyssa-jade-merjilla](https://www.linkedin.com/in/alyssa-jade-merjilla/)
+🌐 **Portfolio:** [ajpm-portfolio.vercel.app](https://ajpm-portfolio.vercel.app/)
 💻 **GitHub:** [@alijilla](https://github.com/alijilla)
 
 ---
